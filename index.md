@@ -2,7 +2,7 @@ English follows Japanese.
 
 ---
 
-# ** お問い合わせ **
+# **お問い合わせ**
 
 JapanGoに関する問い合わせは、以下の連絡先までご連絡ください。
 
@@ -13,7 +13,7 @@ japango＠weteq.llc
 
 ---
 
-# ** Contact **
+# **Contact**
 
 For inquiries regarding Japango, please contact us:
 
